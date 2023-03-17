@@ -1,7 +1,10 @@
-name: SchemePack,
-displayName: SchemePack,
-author:VI,
-description:SchemePack,
-version: 1
-hidden: true,
-minGameVersion: 142
+{
+  name: "SchemePack"
+  author: "| VI |"
+  displayName: "SchemePack"
+  description: "SchemePack"
+  version: 1
+  minGameVersion: 141
+  java: false
+  hidden: false
+}
