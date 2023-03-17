@@ -1,0 +1,10 @@
+{
+  name: "SchemePack"
+  author: "| VI |"
+  displayName: "SchemePack"
+  description: "SchemePack"
+  version: 1
+  minGameVersion: 141
+  java: false
+  hidden: true
+}
